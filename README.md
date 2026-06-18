@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:534AB7,100:1D9E75&amp;height=220&amp;section=header&amp;text=Poojha%20M&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=AI%20%26%20Data%20Science%20Undergraduate&amp;descSize=18&amp;descAlignY=68" width="100%"/>
 </p>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;pause=1000&amp;color=534AB7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+real-world+AI+systems+%F0%9F%9A%80;AI+%26+Data+Science+%40+KSRCT+%7C+CGPA+9.4;Federated+Learning+%7C+Computer+Vision+%7C+NLP;Learn+by+building%2C+not+by+copying." alt="Typing SVG" />
 </h3>
