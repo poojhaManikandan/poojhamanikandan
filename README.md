@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="Snapchat-1682557632" src="https://github.com/user-attachments/assets/57146f85-1071-466c-bc0b-923ed969e425" align="center" />
+<img align="center" width="500" height="500" alt="Snapchat-1682557632" src="https://github.com/user-attachments/assets/57146f85-1071-466c-bc0b-923ed969e425" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:534AB7,100:1D9E75&amp;height=220&amp;section=header&amp;text=Poojha%20M&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=AI%20%26%20Data%20Science%20Undergraduate&amp;descSize=18&amp;descAlignY=68" width="100%"/>
 </p>
