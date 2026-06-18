@@ -1,5 +1,11 @@
-<img align="center" width="500" height="500" alt="Snapchat-1682557632" src="https://github.com/user-attachments/assets/57146f85-1071-466c-bc0b-923ed969e425" />
-<h3 align="center">
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/57146f85-1071-466c-bc0b-923ed969e425"
+    alt="Snapchat-1682557632"
+    width="500"
+    height="500"
+  />
+</p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;pause=1000&amp;color=534AB7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+real-world+AI+systems+%F0%9F%9A%80;AI+%26+Data+Science+%40+KSRCT+%7C+CGPA+9.4;Federated+Learning+%7C+Computer+Vision+%7C+NLP;Learn+by+building%2C+not+by+copying." alt="Typing SVG" />
 </h3>
 
