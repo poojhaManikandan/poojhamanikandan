@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:1D9E75&height=220&section=header&text=Poojha%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Undergraduate&descSize=18&descAlignY=68" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:534AB7,100:1D9E75&amp;height=220&amp;section=header&amp;text=Poojha%20M&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=AI%20%26%20Data%20Science%20Undergraduate&amp;descSize=18&amp;descAlignY=68" width="100%"/>
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=Building+real-world+AI+systems+%F0%9F%9A%80;AI+%26+Data+Science+%40+KSRCT+%7C+CGPA+9.4;Federated+Learning+%7C+Computer+Vision+%7C+NLP;Learn+by+building%2C+not+by+copying." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;pause=1000&amp;color=534AB7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+real-world+AI+systems+%F0%9F%9A%80;AI+%26+Data+Science+%40+KSRCT+%7C+CGPA+9.4;Federated+Learning+%7C+Computer+Vision+%7C+NLP;Learn+by+building%2C+not+by+copying." alt="Typing SVG" />
 </h3>
 
 ---
@@ -83,9 +83,9 @@ print(me.motto())
 <tr>
 <td width="50%" valign="top">
 
-#### 🎙️ Classroom Co-Pilot AI
+#### 🎙️ MentorAI
 Voice-enabled AI teaching assistant for Class 6–8 students in Haryana government schools. Supports Hinglish, real-time text-to-speech, and curriculum-aligned explanations.
-
+[→ View on GitHub](https://github.com/poojhaManikandan/MentorAI)
 `Streamlit` `Gemini 2.5 Flash` `gTTS` `Web Speech API`
 
 </td>
@@ -163,12 +163,12 @@ Personalized discovery engine to help users find movies they'll love.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poojhaManikandan&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poojhaManikandan&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=poojhaManikandan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poojhaManikandan&amp;theme=tokyonight&amp;hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poojhaManikandan&theme=tokyo-night&hide_border=true" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poojhaManikandan&amp;theme=tokyo-night&amp;hide_border=true" width="96%"/>
 </p>
 
 ---
@@ -177,16 +177,16 @@ Personalized discovery engine to help users find movies they'll love.
 
 <p align="center">
   <a href="mailto:poojhacs.erd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/poojha-manikandan-332974316">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   <a href="https://portfolio-github-io-self.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-534AB7?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-534AB7?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1D9E75,100:534AB7&amp;height=120&amp;section=footer" width="100%"/>
 </p>
