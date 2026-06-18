@@ -5,7 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Poojha%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Undergrad&descSize=18&descAlignY=65" width="100%"/>
 </p>
 
-```python
 class Poojha:
     def __init__(self):
         self.name = "Poojha M"
