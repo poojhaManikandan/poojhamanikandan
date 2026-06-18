@@ -3,11 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Future+AI+Engineer" />
-</p>
+    <img width="500" height="500" alt="ChatGPT Image Jun 18, 2026, 09_14_35 PM" src="https://github.com/user-attachments/assets/02ab846b-996c-4ae5-af30-e6d0185737d3" />
 
-<p align="center">
-  <img src="ChatGPT Image Jun 18, 2026, 09_14_35 PM" src="https://github.com/user-attachments/assets/85c0fc97-93bb-42e7-9df1-51927b521b69" width="500"/>
 </p>
   <h3 align="center">
 </p >
